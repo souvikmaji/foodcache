@@ -3,7 +3,7 @@
 ![David](https://img.shields.io/david/souvikmaji/foodcache.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a11f7ed80aa450a9a867cf8f1f5d625)](https://www.codacy.com/app/souvikmaji/foodcache?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=souvikmaji/foodcache&amp;utm_campaign=Badge_Grade)
 
-Application to keep track of money paid and received for office pantry. It gives monthly email alerts to all its users. The admin of this application can handle accounts and can view which users still owe money.
+Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and slack. The admin of this application can handle accounts and can view which users still owe money.
 
 # Prerequisites
 
